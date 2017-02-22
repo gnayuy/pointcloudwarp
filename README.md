@@ -1,4 +1,4 @@
-# pointcloudwarp
+# PointCloudWarp
 
 PointCloudWarp is developed for transforming a point cloud based on an affine matrix and a displacement field.
 
